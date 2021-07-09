@@ -61,7 +61,7 @@ var sdkTests = []sdkTest{
 		Skip:        codegen.NewStringSet("docs", "dotnet"),
 	},
 	{
-		Directory:   "provider-config",
+		Directory:   "provider-config-schema",
 		Description: "Simple provider config schema",
 	},
 }
